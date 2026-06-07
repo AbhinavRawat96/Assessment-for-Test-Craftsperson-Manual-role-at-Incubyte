@@ -45,7 +45,3 @@ The test suite covers:
 * Traditional Style Test Cases (Excel)
 * BDD Style Test Cases (Excel)
 * Positive and Negative Test Scenarios
-
-## Author
-
-Submitted as part of the Incubyte Manual Testing Assessment.
