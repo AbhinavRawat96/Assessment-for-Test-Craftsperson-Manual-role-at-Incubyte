@@ -1,0 +1,2 @@
+# Assessment-for-Test-Craftsperson-Manual-role-at-Incubyte
+**Repository Description (≤350 characters):**  Manual testing assessment for Gmail Compose functionality. Includes comprehensive traditional and BDD test cases covering positive, negative, validation, usability, accessibility, and error-handling scenarios for composing and sending emails with subject "Incubyte" and body "QA test for Incubyte".
